@@ -1,5 +1,7 @@
 # Markdown to Google Docs Converter
 
+GitHub Link: https://github.com/aaug1/markdown-to-google-docs
+
 This project automates the process of converting Markdown meeting notes into a styled Google Docs document using the Google Docs API. It parses Markdown content (as string), applies styles, and uploads the formatted document to Google Docs.
 
 ## Setup Instructions - Running Locally
